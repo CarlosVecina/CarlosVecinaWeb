@@ -4,7 +4,7 @@ authors:
 bio: Data Scientist at Bankinter  |  AI & Data Science for Business
 education:
   courses:
-  - course: Pre PhD Research in Artificial Intelligence. Computer Vision and pose estimation.
+  - course: Pre PhD Research in Artificial Intelligence. Computer Vision and Pose Estimation
     institution: UNED 
     year: 2019
   - course: MSc Data Science for Finance
@@ -42,5 +42,7 @@ user_groups:
 - About me
 ---
 
-I am a Data Scientist with experience using ML and AI to bring real value to business in CRM, Marketing and Energy Markets environments.
+I am a Data Scientist with experience using ML and AI to bring real value to business in CRM, Marketing and Energy Markets environments. 
+
+What else? I am really passionate about research, state-of-the-art algorithms and procedures but always keeping a goal-oriented mindset to materialize this into project value and/or product features.
  
