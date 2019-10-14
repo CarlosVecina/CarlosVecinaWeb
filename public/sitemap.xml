@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -25,71 +30,6 @@
   <url>
     <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/carlos-vecina/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ggplot/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/rayshader/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/1c-ggplot-to-3d-in-r-with-rayshader/ggplot-to-3d-in-r-with-rayshader/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/visualization/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/viz/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vizr/</loc>
-    <lastmod>2019-09-24T21:56:15+02:00</lastmod>
   </url>
   
   <url>
@@ -108,6 +48,11 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -119,6 +64,11 @@
   
   <url>
     <loc>/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,7 +158,19 @@
   </url>
   
   <url>
+    <loc>/authors/carlos-vecina/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
   </url>
   
 </urlset>

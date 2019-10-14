@@ -1,7 +1,7 @@
 ---
 authors:
 - carlos-vecina
-bio: Data scientist at Bankinter  |  AI & Data Science for Business
+bio: Data Scientist at Bankinter  |  AI & Data Science for Business
 education:
   courses:
   - course: Pre PhD Research in Artificial Intelligence. Computer Vision and pose estimation.
@@ -23,7 +23,7 @@ organizations:
 - name: 
   url: ""
 
-role: Data scientist at Bankinter
+role: Data Scientist at Bankinter
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,8 +39,8 @@ social:
   link: https://github.com/CarlosVecina
 superuser: true
 user_groups:
-- Researchers
+- About me
 ---
 
-Carlos Vecina is a data scientist with experience using ML and AI to bring value to business in CRM, Marketing and energy markets environments.
+I am a Data Scientist with experience using ML and AI to bring real value to business in CRM, Marketing and Energy Markets environments.
  

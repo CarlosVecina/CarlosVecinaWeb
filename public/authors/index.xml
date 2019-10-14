@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | TypeThePipe</title>
+    <title>Authors | Carlos Vecina</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/img/carlosvecinafavicon.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>/authors/carlos-vecina/</link>
-      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/carlos-vecina/</guid>
-      <description>&lt;p&gt;Carlos Vecina is a data scientist with experience using ML and AI to bring value to business in CRM, Marketing and energy markets environments.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>admin</title>
@@ -35,6 +26,15 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/authors/robert-ford/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/carlos-vecina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/carlos-vecina/</guid>
+      <description>&lt;p&gt;I am a Data Scientist with experience using ML and AI to bring real value to business in CRM, Marketing and Energy Markets environments.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
