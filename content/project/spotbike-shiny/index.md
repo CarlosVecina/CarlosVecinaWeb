@@ -5,10 +5,18 @@ image:
   caption: 
   focal_point: Smart
 links:
-- icon: twitter
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/DeepChals
+- icon: chart-line
+  icon_pack: fas
+  name: View Dashboard
+  url: https://carlosvecina.shinyapps.io/SpotBike/
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/DeepChals
+  name: Algortihm Code
+  url: https://github.com/CarlosVecina/SpotBike
 summary: Explore the most conflictive streets for bikers.
 tags:
 - Dashboards
@@ -22,4 +30,4 @@ url_code: "https://github.com/CarlosVecina/SpotBike"
 
 Explore the most conflictive streets for bikers.
 
-Link: http://carlosvecina.es/spotbike
+Link: https://carlosvecina.shinyapps.io/SpotBike/

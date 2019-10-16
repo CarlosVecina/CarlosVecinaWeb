@@ -12,7 +12,7 @@ links:
 - icon: chart-line
   icon_pack: fas
   name: View Dashboard
-  url: http://carlosvecina.es/crypto-invest
+  url: https://carlosevecina.shinyapps.io/cripto-ligero/
 summary: Shiny Dashboard to explore the criptocurrency market, past prices, SMAs...
 tags:
 - Dashboards
@@ -26,4 +26,4 @@ url_video: ""
 
 Shiny Dashboard to explore the criptocurrency market, past prices, SMAs...
 
-Link: http://carlosvecina.es/crypto-invest
+Link: https://carlosevecina.shinyapps.io/cripto-ligero/
