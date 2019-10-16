@@ -2,7 +2,6 @@
 date: "2019-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 links:
 - icon: twitter
@@ -13,7 +12,7 @@ slides: example
 summary: Forecasting web page visitors. Hosted by CajaMar, Idealista & Mindsait.
 tags:
 - Competitions
-title: Real State Modeling Datathon 2019
+title: Real State Modelling Datathon 2019
 url_code: "https://www.cajamardatalab.com/datathon-cajamar-universityhack-2019/ganadores/GoDeeperOrGoHome.zip"
 url_pdf: ""
 url_slides: "https://www.cajamardatalab.com/datathon-cajamar-universityhack-2019/ganadores/GoDeeperOrGoHome.pdf"

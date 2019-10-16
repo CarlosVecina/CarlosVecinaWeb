@@ -21,12 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "CajaMar, Idealista & Mindsait"
   organization_url = "https://www.cajamardatalab.com/datathon-cajamar-universityhack-2019/"
-  title = "2nd classified Real State Modeling Datathon."
+  title = "2nd classified Real State Modelling Datathon."
   url = ""
   certificate_url = "https://www.cajamardatalab.com/datathon-cajamar-universityhack-2019/ganadores/"
   date_start = "2019-01-01"
   date_end = "2019-04-01"
-  description = "Real State Modeling Datathon. 'The biggest Spanish analytical datathon'."
+  description = "Real State Modelling Datathon. 'The biggest Spanish analytical datathon'."
   
 [[item]]
   organization = "R Hispano"

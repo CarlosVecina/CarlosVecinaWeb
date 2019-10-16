@@ -28,9 +28,9 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * ETL designing
-  * Analysing data in an Apache cluster.
-  * Modelling customer online activity and attributes.
-  * Deploying ML models feeding predictions to CRM & Marketing deparments.
+  * Analysing data in an Apache cluster distributed.
+  * Modelling customer online activity and internal data.
+  * Deploying ML models feeding predictions to CRM & Marketing departments.
   """
 
 [[experience]]
@@ -40,6 +40,6 @@ date_format = "Jan 2006"
   location = "Madrid"
   date_start = "2018-03-01"
   date_end = "2019-03-01"
-  description = """R & D department implementing forecasting algorithms for the European energy market."""
+  description = """R & D department implementing forecasting algorithms for the European energy market by designing Machine Learning and Deep Learning models."""
 
 +++

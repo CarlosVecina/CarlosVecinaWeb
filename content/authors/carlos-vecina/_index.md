@@ -28,12 +28,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/deepchals
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/carlos-vecina/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/deepchals
 - icon: github
   icon_pack: fab
   link: https://github.com/CarlosVecina
