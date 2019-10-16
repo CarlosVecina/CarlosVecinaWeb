@@ -4,7 +4,7 @@ authors:
 bio: Data Scientist at Bankinter  |  AI & Data Science for Business
 education:
   courses:
-  - course: Pre PhD Research in Artificial Intelligence. Computer Vision and Pose Estimation
+  - course: MSc Research in Artificial Intelligence. Computer Vision and Pose Estimation
     institution: UNED 
     year: 2019
   - course: MSc Data Science for Finance

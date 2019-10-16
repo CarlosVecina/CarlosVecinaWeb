@@ -42,6 +42,17 @@
     </item>
     
     <item>
+      <title>OCR Project.</title>
+      <link>/project/cv-tesseract-ocr/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/project/cv-tesseract-ocr/</guid>
+      <description>&lt;p&gt;CV + Tesseract retraining OCR project.&lt;/p&gt;
+
+&lt;p&gt;Link: &lt;a href=&#34;https://www.linkedin.com/posts/carlos-vecina_probando-los-m%C3%B3dulos-cv-tesseract-soon-activity-6445594228390129664-alqq&#34; target=&#34;_blank&#34;&gt;https://www.linkedin.com/posts/carlos-vecina_probando-los-m%C3%B3dulos-cv-tesseract-soon-activity-6445594228390129664-alqq&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bike accidents dashboard.</title>
       <link>/project/spotbike-shiny/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
