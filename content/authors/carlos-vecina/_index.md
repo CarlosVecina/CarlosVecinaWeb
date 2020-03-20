@@ -13,9 +13,9 @@ education:
 
 email: ""
 interests:
-- Artificial Intelligence
+- Artificial Intelligence & Machine Learning
 - Time Series Forecasting
-- Graph theory
+- Deep Learning
 - Uncertainity
 - Econometrics
 name: Carlos Vecina
@@ -23,7 +23,7 @@ organizations:
 - name: 
   url: ""
 
-role: Data Scientist at Bankinter
+role: Data Scientist & TechLead at Bankinter
 social:
 - icon: envelope
   icon_pack: fas
